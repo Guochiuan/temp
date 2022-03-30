@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: come.cs6310.a5.A5ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.866 s - in come.cs6310.a5.A5ApplicationTests
